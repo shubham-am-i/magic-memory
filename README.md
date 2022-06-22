@@ -1,3 +1,5 @@
+![magic-game](https://user-images.githubusercontent.com/88419331/174956432-8be74b10-ecb4-43dd-bcf7-edfea30439c2.png)
+![magic-memory](https://user-images.githubusercontent.com/88419331/174956441-94398a27-d2bc-4d84-bc8e-3ddcb6fa0d32.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
